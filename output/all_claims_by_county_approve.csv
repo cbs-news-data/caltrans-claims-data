@@ -1,0 +1,59 @@
+"County","Approved","Total claims","Total w/ known status","% Approved"
+"Alameda",137,3038,2273,6
+"Alpine",1,24,10,10
+"Amador",2,36,31,6.5
+"Butte",7,25,25,28
+"Calaveras",7,37,29,24.1
+"Colusa",6,8,7,85.7
+"Contra Costa",38,1234,948,4
+"Del Norte",9,35,33,27.3
+"El Dorado",22,168,168,13.1
+"Fresno",56,413,394,14.2
+"Glenn",3,4,4,75
+"Humboldt",18,227,188,9.6
+"Imperial",6,33,33,18.2
+"Inyo",3,28,27,11.1
+"Kern",53,361,337,15.7
+"Kings",3,34,31,9.7
+"Lake",3,53,43,7
+"Lassen",6,23,22,27.3
+"Los Angeles",190,5916,4310,4.4
+"Madera",42,159,149,28.2
+"Marin",20,298,211,9.5
+"Mariposa",2,71,53,3.8
+"Mendocino",11,94,83,13.3
+"Merced",23,518,331,6.9
+"Modoc",6,9,9,66.7
+"Mono",6,45,34,17.6
+"Monterey",12,134,116,10.3
+"Napa",4,86,67,6
+"Nevada",37,88,88,42
+"Orange",147,2092,1996,7.4
+"Placer",31,454,451,6.9
+"Plumas",6,22,17,35.3
+"Riverside",27,943,705,3.8
+"Sacramento",98,1271,1263,7.8
+"San Bernardino",34,1533,907,3.7
+"San Diego",214,1956,1847,11.6
+"San Francisco",44,972,703,6.3
+"San Joaquin",31,766,557,5.6
+"San Luis Obispo",32,275,265,12.1
+"San Mateo",75,1886,1352,5.5
+"Santa Barbara",12,149,131,9.2
+"Santa Clara",73,1960,1304,5.6
+"Santa Cruz",9,82,70,12.9
+"Shasta",28,111,100,28
+"Sierra",4,9,9,44.4
+"Siskiyou",17,41,37,45.9
+"Solano",30,690,489,6.1
+"Sonoma",11,256,197,5.6
+"Stanislaus",10,262,184,5.4
+"Sutter",4,12,12,33.3
+"Tehama",5,37,35,14.3
+"Trinity",5,26,25,20
+"Tulare",12,128,125,9.6
+"Ventura",12,176,152,7.9
+"Yolo",19,92,90,21.1
+"Yuba",11,37,37,29.7
+"San Benito",0,38,35,0
+"Tuolumne",0,24,20,0

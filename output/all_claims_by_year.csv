@@ -1,0 +1,8 @@
+"INCIDENT_YEAR","Approve","Deny","Deny-NSH","Small Claims Court","Tendered","Transfer (unclear)","Transfer to diff office","other","unclear/unknown/pending","total","total_not_unknown_pending","percent_approved_of_total","percent_approved_of_not_unk_pending"
+"2018",416,2964,17,38,755,1,54,0,190,4435,4245,9.4,9.8
+"2019",455,3994,36,31,124,0,50,1,187,4878,4691,9.3,9.7
+"2020",242,2295,11,10,43,0,30,0,160,2791,2631,8.7,9.2
+"2021",298,2875,9,13,66,2,32,0,242,3537,3295,8.4,9
+"2022",166,3039,29,10,65,5,27,1,745,4087,3342,4.1,5
+"2023",284,6176,169,8,75,5,10,4,5390,12121,6731,2.3,4.2
+"Total",1861,21343,271,110,1128,13,203,6,6914,31849,24935,5.8,7.5
