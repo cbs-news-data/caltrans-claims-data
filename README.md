@@ -14,4 +14,4 @@ The folders and files included in this repo are as follows:
 
 - [scripts](https://github.com/cbs-news-data/caltrans-claims-data/tree/main/scripts): All the R scripts used for analysis. They are numbered in the order they should be run in. 
 
-_Contact grace.manthey@cbsnews.com with any questions_
+_Contact grace.manthey@cbsnews.com with any questions._
