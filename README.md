@@ -1,6 +1,6 @@
 # Caltrans claims data
 
-The data and analysis in this repository fueled the [CBS News California investigation into Caltrans claims](https://www.cbsnews.com/sacramento/news/caltrans-pothole-damage-claims-california-freeways/). The data was provided by Caltrans via a California Public Records Act request, reference number R024170-062723, submitted on June 27, 2023. 
+The data and analysis in this repository fueled the [CBS News California investigation into Caltrans claims](https://www.cbsnews.com/sacramento/news/caltrans-pothole-damage-claims-california-freeways/). The data was provided by Caltrans via a [California Public Records Act request](https://caltrans.mycusthelp.com/WEBAPP/_rs/(S(iwyjsjbh004wehkcj1llwbs3))/supporthome.aspx), reference number R024170-062723, submitted on June 27, 2023. 
 
 The folders and files included in this repo are as follows:
 
