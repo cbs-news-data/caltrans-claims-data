@@ -13,3 +13,5 @@ The folders and files included in this repo are as follows:
   - Includes a (relatively) [clean version of the raw data from Caltrans](https://github.com/cbs-news-data/caltrans-claims-data/blob/main/output/caltrans_data_clean.csv). Cleaned/added columns include the incident date and year, a cleaned version of the "status," "route," and "amount" columns. Other added columns include whether or not the claim mention potholes or construction work, and if the amount paid/sought/status columns made sense in relation to each other.
 
 - [scripts](https://github.com/cbs-news-data/caltrans-claims-data/tree/main/scripts): All the R scripts used for analysis. They are numbered in the order they should be run in. 
+
+_Contact grace.manthey@cbsnews.com with any questions_
